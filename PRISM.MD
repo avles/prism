@@ -9,7 +9,7 @@ Introducing PRISM: Performance and Resilience Index for Software-delivery Maturi
 
 ## Introduction
 
-PRISM is a comprehensive framework designed to evaluate and enhance the maturity and performance of software delivery teams. It stands on seven key pillars: Team Organization, Developer Enablement, Delivery Flow, Rugged Score, Chaos Tolerance, Ops Capability, and Elasticity Score. 
+PRISM is a comprehensive framework designed to evaluate and enhance the maturity and performance of software delivery teams. It stands on seven key pillars: Team Organization, Engineering Enablement, Delivery Flow, Rugged Score, Chaos Tolerance, Ops Capability, and Elasticity Score. 
 
 By assessing these core areas, PRISM can provide actionable insights and metrics to guide teams toward achieving high performance and resilience in software delivery.
 
@@ -43,7 +43,7 @@ KPIs:
 - Team communication effectiveness survey results.
 <br>
 
-### 2. Developer Enablement
+### 2. Engineering Enablement
 
 Availability of the right tools, environments, safety guardrails, standards, and procedures.
 
@@ -158,7 +158,7 @@ Here is an example scorecard created to demonstrate how this framework can be us
 | Visibility & Alignment | 🟡 3 | OKRs in place, but alignment with organizational goals could be improved. |
 | Team Communication | 🟢 4 | Clear channels established, but external engagement could be enhanced. |
 
-### **2:  Developer Enablement**
+### **2:  Engineering Enablement**
 
 **Overall Score: 🟡 3**
 
@@ -232,7 +232,7 @@ Legend: 🔴 1 - Critical 🟠 2 - Needs Improvement 🟡 3 - Satisfactory 🟢 
 | Pillar | Score |
 |--------|-------|
 | 1. Team Organization | 🟢 4 |
-| 2. Developer Enablement | 🟡 3 |
+| 2. Engineering Enablement | 🟡 3 |
 | 3. Delivery Flow | 🟢 4 |
 | 4. Rugged Score | 🟠 2 |
 | 5. Chaos Tolerance | 🟡 3 |

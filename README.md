@@ -18,13 +18,14 @@ Providing Actionable Insights: Supplying metrics and KPIs that guide teams in im
 Enhancing Performance: Fostering a culture of continuous improvement, resilience, and excellence in software delivery.
 Ensuring Comprehensive Coverage: Covering all critical aspects of software delivery to avoid overlooking any potential weaknesses or growth areas.
 
-d. What are the key aspects?
+d. How is this different?
 
-Holistic Approach: PRISM covers a broad spectrum of critical areas necessary for high-performing, resilient software delivery teams, unlike other frameworks that may focus narrowly on specific aspects.
-Seven Key Pillars: The framework's organization into seven pillars ensures a comprehensive evaluation of team maturity and performance.
-Actionable Metrics and KPIs: PRISM provides specific metrics and KPIs for each pillar, offering clear, actionable insights for improvement.
-Experience-Driven: The framework is rooted in real-world experience from working with diverse organizations, making it practical and relevant.
-Focus on Resilience: PRISM emphasizes not just performance but also the resilience of software delivery teams, ensuring they can withstand and adapt to various challenges and changes.
+- Holistic Approach: PRISM covers a broad spectrum of critical areas necessary for high-performing, resilient software delivery teams, unlike other frameworks that may focus narrowly on specific aspects.
+- Seven Key Pillars: The framework's organization into seven pillars ensures a comprehensive evaluation of team maturity and performance.
+- Actionable Metrics and KPIs: PRISM provides specific metrics and KPIs for each pillar, offering clear, actionable insights for improvement.
+- Experience-Driven: The framework is rooted in real-world experience from working with diverse organizations, making it practical and relevant.
+- Focus on Resilience: PRISM emphasizes not just performance but also the resilience of software delivery teams, ensuring they can withstand and adapt to various challenges and changes.
+
 These elements make PRISM a robust and effective framework for driving excellence in software delivery teams.
 
 
@@ -32,9 +33,9 @@ e. Getting Started
 
 To start using PRISM in your organization:
 
-Review the PRISM Framework document to understand the seven pillars and their components.
-Use the PRISM Scorecard Template to assess your team's current maturity.
-Implement the suggested Key Performance Indicators (KPIs) to track your team's progress over time.
+- Review the PRISM Framework document to understand the seven pillars and their components.
+- Use the PRISM Scorecard Template to assess your team's current maturity.
+- Implement the suggested Key Performance Indicators (KPIs) to track your team's progress over time.
 
 f. Contributing
 

@@ -1,4 +1,4 @@
-# PRISM
+# PRISM - Performance and Resilience Index for Software-delivery Maturity
 
 a. What is this framework?
 

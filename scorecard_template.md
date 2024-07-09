@@ -18,7 +18,7 @@ Rate each subitem on a scale of 1-5:
 | Visibility & Alignment | [ ] | |
 | Team Communication | [ ] | |
 
-### 2. Developer Enablement
+### 2. Engineering Enablement
 
 **Overall Score: [ ]**
 
@@ -90,7 +90,7 @@ Rate each subitem on a scale of 1-5:
 | Pillar | Score |
 |--------|-------|
 | 1. Team Organization | [ ] |
-| 2. Developer Enablement | [ ] |
+| 2. Engineering Enablement | [ ] |
 | 3. Delivery Flow | [ ] |
 | 4. Rugged Score | [ ] |
 | 5. Chaos Tolerance | [ ] |

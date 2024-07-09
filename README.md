@@ -9,7 +9,7 @@ PRISM: Performance and Resilience Insights for Software Maturity is a comprehens
 - Rugged Score
 - Chaos Tolerance
 - Ops Capability
-- Team Elasticity.
+- Team Elasticity
 
 By assessing these core areas, PRISM provides actionable insights and metrics to guide teams toward achieving high performance and resilience in software delivery.
 

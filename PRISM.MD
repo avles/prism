@@ -215,7 +215,7 @@ Here is an example scorecard created to demonstrate how this framework can be us
 | Production Guardrails | 🟢 4 | Good review processes and automation to prevent human errors. |
 | Reliability and Cost Management | 🟡 3 | Regular system improvements, but cost management could be optimized. |
 
-### **7:  Elasticity Score**
+### **7:  Team Elasticity**
 
 **Overall Score: 🟡 3**
 
@@ -237,7 +237,7 @@ Legend: 🔴 1 - Critical 🟠 2 - Needs Improvement 🟡 3 - Satisfactory 🟢 
 | 4. Rugged Score | 🟠 2 |
 | 5. Chaos Tolerance | 🟡 3 |
 | 6. Ops Capability | 🟢 4 |
-| 7. Elasticity Score | 🟡 3 |
+| 7. Team Elasticity | 🟡 3 |
 
 **Average Score: 3.29 (Rounded to 3)**
 

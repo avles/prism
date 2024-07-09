@@ -126,7 +126,7 @@ KPIs:
 - Frequency and effectiveness of incident postmortems.
 - Operational cost savings identified and implemented.
 
-### 7. Elasticity Score
+### 7. Team Elasticity
 
 Team's ability to scale to manage delivery requirements. How long does it take for a new member to become productive? How good is the experience of the new member before becoming productive?
 
@@ -243,6 +243,8 @@ Legend: 🔴 1 - Critical 🟠 2 - Needs Improvement 🟡 3 - Satisfactory 🟢 
 
 Legend: 🔴 1 - Critical   🟠 2 - Needs Improvement   🟡 3 - Satisfactory   🟢 4 - Good   🟢 5 - Excellent
 
+
+Version 0.1
 
 
 ## **Areas for Improvement**

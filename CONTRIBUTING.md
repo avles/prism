@@ -20,10 +20,9 @@ We're excited that you're interested in contributing to the PRISM framework! Thi
 2. Submit a pull request to the main repository.
 3. Clearly describe your changes and their motivations in the pull request description.
 
-## Reporting Issues
+## Reporting Issues / Provide feedback
 
-- Use the GitHub issue tracker to report bugs or suggest features.
-- Clearly describe the issue including steps to reproduce when it is a bug.
+- Use the GitHub issue tracker to report or provide your feedback
 
 ## Questions?
 

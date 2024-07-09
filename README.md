@@ -2,7 +2,16 @@
 
 a. What is this framework?
 
-PRISM: Performance and Resilience Insights for Software Maturity is a comprehensive framework designed to evaluate and enhance the maturity and performance of software delivery teams. It stands on seven key pillars: Team Organization, Developer Enablement, Delivery Flow, Rugged Score, Chaos Tolerance, Ops Capability, and Elasticity Score. By assessing these core areas, PRISM provides actionable insights and metrics to guide teams toward achieving high performance and resilience in software delivery.
+PRISM: Performance and Resilience Insights for Software Maturity is a comprehensive framework designed to evaluate and enhance the maturity and performance of software delivery teams. It stands on seven key pillars: 
+- Team Organization
+- Developer Enablement
+- Delivery Flow
+- Rugged Score
+- Chaos Tolerance
+- Ops Capability
+- Team Elasticity.
+
+By assessing these core areas, PRISM provides actionable insights and metrics to guide teams toward achieving high performance and resilience in software delivery.
 
 b. Why was this created?
 

@@ -57,3 +57,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 h. Contact
 
 For questions or feedback about PRISM, please open an issue in this repository.
+
+i. Article Link
+
+https://ironcloud.hashnode.dev/building-high-performance-software-delivery-teams-with-the-prism-framework
